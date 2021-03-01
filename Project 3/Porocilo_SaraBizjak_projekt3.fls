@@ -1,0 +1,269 @@
+PWD /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.tex
+OUTPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.log
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/a4wide/a4wide.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/a4wide/a4wide.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ntgclass/a4.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ntgclass/a4.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/preprint/fullpage.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/preprint/fullpage.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/utf8x.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/utf8x.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucs.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucs.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-global.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-global.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/anttor.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/anttor.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/t1anttl.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/t1anttl.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/ec-anttl.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/appendix/appendix.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/appendix/appendix.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.aux
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.aux
+OUTPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.aux
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.out
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.out
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.out
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.out
+OUTPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.pdf
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.out
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.out
+OUTPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.out
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/ot1anttlm.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/ot1anttlm.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/rm-anttl.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/rm-anttl.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/rm-anttl.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/omlanttl.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/omlanttl.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/mi-anttli.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/mi-anttli.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/mi-anttli.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/omsanttl.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/omsanttl.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/sy-anttlz.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/sy-anttlz.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/sy-anttlz.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/omxanttl.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/antt/omxanttl.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/ex-anttl.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/ex-anttl.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/ex-anttl.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmb10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmb10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmb10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/rm-anttl.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/mi-anttli.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/sy-anttlz.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/antt/ex-anttl.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-0.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-0.def
+INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gaussian_filter.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gaussian_filter.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gaussian_filter.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/original.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/original.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/original.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gauss.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gauss.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gauss.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gx.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gx.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gx.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gy.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gy.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/gy.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/magnitude.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/magnitude.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/magnitude.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/angle.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/angle.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/angle.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/canny_edge.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/canny_edge.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/canny_edge.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0090_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0090_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0090_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0001.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0001.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0001.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0001_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0001_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0001_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0005.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0005.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0005.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0005_canny.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0005_canny.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0005_canny.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0015.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0015.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0015.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0015_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0015_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0015_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0020.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0020.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0020.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0020_canny.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0020_canny.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0020_canny.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0080.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0080.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0080.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0080_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0080_poisson.png
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/0080_poisson.png
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmtt10.tfm
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.aux
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.out
+INPUT /Users/sarabizjak/Documents/IŠRM magistrski/Obdelava biomedicinskih signalov in slik/OBSS/Project 3/Porocilo_SaraBizjak_projekt3.out
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/antt/antt-ex.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/antt/antt-sy.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/antt/antt-rm.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/antt/antt-mi.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/antt/anttl.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/antt/anttli.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmb10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr17.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
